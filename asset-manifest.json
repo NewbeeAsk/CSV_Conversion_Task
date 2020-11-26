@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CSV_Conversion_Task/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/CSV_Conversion_Task/static/js/main.ab58a897.chunk.js",
+    "main.js.map": "/CSV_Conversion_Task/static/js/main.ab58a897.chunk.js.map",
+    "runtime-main.js": "/CSV_Conversion_Task/static/js/runtime-main.193b0432.js",
+    "runtime-main.js.map": "/CSV_Conversion_Task/static/js/runtime-main.193b0432.js.map",
+    "static/js/2.36a4f81d.chunk.js": "/CSV_Conversion_Task/static/js/2.36a4f81d.chunk.js",
+    "static/js/2.36a4f81d.chunk.js.map": "/CSV_Conversion_Task/static/js/2.36a4f81d.chunk.js.map",
+    "static/js/3.7e9f5ac9.chunk.js": "/CSV_Conversion_Task/static/js/3.7e9f5ac9.chunk.js",
+    "static/js/3.7e9f5ac9.chunk.js.map": "/CSV_Conversion_Task/static/js/3.7e9f5ac9.chunk.js.map",
+    "index.html": "/CSV_Conversion_Task/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/CSV_Conversion_Task/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.36a4f81d.chunk.js.LICENSE.txt": "/CSV_Conversion_Task/static/js/2.36a4f81d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.193b0432.js",
+    "static/js/2.36a4f81d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ab58a897.chunk.js"
+  ]
+}
